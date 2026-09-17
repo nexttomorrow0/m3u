@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[超清HDR]
-http://192.168.50.1:5140/rtp/239.3.1.118:8001
+rtp://239.3.1.118:8001
 #EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[高清]
 http://192.168.50.1:5140/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[超清]
